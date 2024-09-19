@@ -55,6 +55,7 @@ const config: DocsThemeConfig = {
         <meta property='og:image:width' content='800'></meta>
         <meta property='og:image:height' content='600'></meta>
         <meta property='og:image:alt' content='Essay Ideas Finder - Spark Your Inspiration'></meta>
+        <script async src='https://www.googletagmanager.com/gtag/js?id=G-SXV9D63ZJ6'></script>
       </>
     );
   },

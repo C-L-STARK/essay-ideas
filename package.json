@@ -18,13 +18,20 @@
   },
   "homepage": "https://fastx-ai.com",
   "dependencies": {
+    "@ai-sdk/openai": "^0.0.60",
+    "@ai-sdk/react": "^0.0.59",
     "@lobehub/i18n-cli": "^1.20.0",
+    "@nlux/highlighter": "^2.17.1",
+    "@nlux/react": "^2.17.1",
+    "@nlux/themes": "^2.17.1",
     "@theguild/remark-mermaid": "^0.1.2",
+    "ai": "^3.3.41",
     "next": "^14.2.12",
     "nextra": "2.13.4",
     "nextra-theme-docs": "2.13.4",
     "react": "^18.2.0",
-    "react-dom": "^18.2.0"
+    "react-dom": "^18.2.0",
+    "zod": "^3.23.8"
   },
   "devDependencies": {
     "@types/node": "18.11.10",
