@@ -7,9 +7,7 @@
     "title": "separator",
     "type": "separator"
   },
-  "major": "Fachaufsätze",
   "university": "Universitätsanträge",
-  "tool": "Werkzeugkasten",
   "team": {
     "title": "Team",
     "display": "hidden"

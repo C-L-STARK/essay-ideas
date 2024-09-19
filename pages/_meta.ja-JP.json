@@ -7,9 +7,7 @@
     "title": "separator",
     "type": "separator"
   },
-  "major": "専門論文",
   "university": "大学申請書",
-  "tool": "ツールボックス",
   "team": {
     "title": "チーム",
     "display": "hidden"

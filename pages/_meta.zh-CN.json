@@ -7,9 +7,7 @@
     "title": "separator",
     "type": "separator"
   },
-  "major": "专业论文",
   "university": "大学申请书",
-  "tool": "工具箱",
   "team": {
     "title": "团队",
     "display": "hidden"

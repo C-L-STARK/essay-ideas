@@ -7,9 +7,7 @@
     "title": "separator",
     "type": "separator"
   },
-  "major": "Major Essay",
   "university": "University Supplemental",
-  "tool": "Tool Box",
   "team": {
     "title": "Team",
     "display": "hidden"
