@@ -36,8 +36,6 @@ export default async function handler(req: NextApiRequest, res: NextApiResponse)
       });
       for await (const textPart of textStream) {
         res.write(textPart);
-        // @ts-ignore
-        res.flush();
       }
       res.end();
     } catch (e) {
