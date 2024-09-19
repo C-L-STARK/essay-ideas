@@ -1,0 +1,31 @@
+{
+  "index": "紹介",
+  "category": "論文カテゴリガイド",
+  "design-template": "論文デザインテンプレート",
+  "skills": "論文執筆スキル",
+  "separatorA": {
+    "title": "separator",
+    "type": "separator"
+  },
+  "major": "専門論文",
+  "university": "大学申請書",
+  "tool": "ツールボックス",
+  "team": {
+    "title": "チーム",
+    "display": "hidden"
+  },
+  "company": {
+    "title": "私たち",
+    "type": "menu",
+    "items": {
+      "about": {
+        "title": "チーム ↗",
+        "href": "/about"
+      },
+      "contact": {
+        "title": "お問い合わせ ↗",
+        "href": "mailto:x.stark.dylan@gmail.com"
+      }
+    }
+  }
+}

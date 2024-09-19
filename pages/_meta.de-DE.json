@@ -1,0 +1,31 @@
+{
+  "index": "Einführung",
+  "category": "Leitfaden zu Aufsatzkategorien",
+  "design-template": "Aufsatzdesignvorlage",
+  "skills": "Aufsatzschreibfähigkeiten",
+  "separatorA": {
+    "title": "separator",
+    "type": "separator"
+  },
+  "major": "Fachaufsätze",
+  "university": "Universitätsanträge",
+  "tool": "Werkzeugkasten",
+  "team": {
+    "title": "Team",
+    "display": "hidden"
+  },
+  "company": {
+    "title": "Wir",
+    "type": "menu",
+    "items": {
+      "about": {
+        "title": "Team ↗",
+        "href": "/about"
+      },
+      "contact": {
+        "title": "Kontaktieren Sie uns ↗",
+        "href": "mailto:x.stark.dylan@gmail.com"
+      }
+    }
+  }
+}

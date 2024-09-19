@@ -1,0 +1,31 @@
+{
+  "index": "المقدمة",
+  "category": "إرشادات تصنيف الأطروحة",
+  "design-template": "قالب تصميم الأطروحة",
+  "skills": "مهارات كتابة الأطروحة",
+  "separatorA": {
+    "title": "separator",
+    "type": "separator"
+  },
+  "major": "الأطروحات المتخصصة",
+  "university": "طلبات الجامعات",
+  "tool": "صندوق الأدوات",
+  "team": {
+    "title": "الفريق",
+    "display": "hidden"
+  },
+  "company": {
+    "title": "نحن",
+    "type": "menu",
+    "items": {
+      "about": {
+        "title": "الفريق ↗",
+        "href": "/about"
+      },
+      "contact": {
+        "title": "اتصل بنا ↗",
+        "href": "mailto:x.stark.dylan@gmail.com"
+      }
+    }
+  }
+}
