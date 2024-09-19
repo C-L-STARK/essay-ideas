@@ -56,6 +56,12 @@ const config: DocsThemeConfig = {
         <meta property='og:image:height' content='600'></meta>
         <meta property='og:image:alt' content='Essay Ideas Finder - Spark Your Inspiration'></meta>
         <script async src='https://www.googletagmanager.com/gtag/js?id=G-SXV9D63ZJ6'></script>
+
+        <link rel='alternate' hrefLang='de' href='https://essay-ideas.com/de-DE'></link>
+        <link rel='alternate' hrefLang='ja' href='https://essay-ideas.com/ja-JP'></link>
+        <link rel='alternate' hrefLang='zh' href='https://essay-ideas.com/zh-CN'></link>
+        <link rel='alternate' hrefLang='ar' href='https://essay-ideas.com/ar-SA'></link>
+        <link rel='alternate' hrefLang='en' href='https://essay-ideas.com'></link>
       </>
     );
   },
