@@ -22,6 +22,10 @@ module.exports = {
       realPath = "/ar-SA" + path.replace(".ar-SA", "");
     }
 
+    if (path.endsWith(".en-US")) {
+      realPath = "/" + path.replace(".en-US", "");
+    }
+
     return {
       loc: realPath, // => this will be exported as http(s)://<config.siteUrl>/<path>
     };

@@ -14,9 +14,9 @@ module.exports = defineConfig({
   markdown: {
     reference:
       "Translate the following content into the target language while preserving the original formatting and specific elements. For MDX files, ensure that markdown syntax, URLs, code blocks, and other formatting elements such as links remain unchanged. Do not alter the structure or content within these elements. keeping all other parts, including URLs and code structure, exactly as they are. translate systemPrompt's value in the mdx component. do not translate the first import line",
-    entry: ["./pages/category/cause_and_effect/*.en-US.mdx"],
+    entry: ["./pages/category/**/*.en-US.mdx"],
     entryLocale: "en-US",
-    outputLocales: ["ja-JP", "ar-SA"],
+    outputLocales: ["zh-CN", "de-DE", "ja-JP", "ar-SA"],
     // exclude: ["./contributing/_Sidebar.mdx"],
     outputExtensions: (locale, { filePath }) => {
       if (filePath.includes(".mdx")) {
