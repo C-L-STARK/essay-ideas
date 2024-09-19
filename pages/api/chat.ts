@@ -5,7 +5,7 @@ import type { NextApiRequest, NextApiResponse } from "next";
 const openai = createOpenAI({
   // custom settings, e.g.
   compatibility: "strict", // strict mode, enable when using the OpenAI API
-  baseURL: "https://wx.fastx-ai.com/v1",
+  baseURL: "https://aigc.x-see.cn/v1",
 });
 
 // Allow streaming responses up to 30 seconds
