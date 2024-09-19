@@ -17,6 +17,33 @@ const Seo = {
       feedBackText: "Give us a feed back →",
       titleEmojiBeginChar: "A",
     },
+    "de-DE": {
+      title: "Aufsatzideen Finder - Entfachen Sie Ihre Inspiration",
+      description:
+        "Bietet Aufsatzvorlagen, Schreibtipps und ergänzende Aufsatzanleitungen, um Studenten zu helfen, im akademischen Schreiben und bei Bewerbungen erfolgreich zu sein.",
+      banner: "Willkommen beim Aufsatzideen Finder, hoffen Sie können aufsteigen!",
+      editText: "Zu diesem Artikel beitragen →",
+      feedBackText: "Geben Sie uns Feedback →",
+      titleEmojiBeginChar: "E",
+    },
+    "ja-JP": {
+      title: "エッセイアイデアファインダー - あなたのインスピレーションを刺激",
+      description:
+        "学生が学術的な文章や大学の出願で成功を収めるためにエッセイのテンプレート、執筆のヒント、補足エッセイガイドを提供します。",
+      banner: "エッセイアイデアファインダーへようこそ、向上を祈っています！",
+      editText: "この文章に貢献 →",
+      feedBackText: "フィードバックをお願いします →",
+      titleEmojiBeginChar: "エ",
+    },
+    "ar-SA": {
+      title: "مكتشف أفكار المقال - أشعل إلهامك",
+      description:
+        "تقديم قوالب مقالات ونصائح كتابة وأدلة مقالات تكميلية لمساعدة الطلاب على التفوق في الكتابة الأكاديمية وتطبيقات الكلية لجميع الاحتياجات الكتابية.",
+      banner: "مرحبًا بك في مكتشف أفكار المقال، نأمل أن تتمكن من التقدم!",
+      editText: "ساهم في هذه المقالة ←",
+      feedBackText: "أرسل لنا تعليقاتك ←",
+      titleEmojiBeginChar: "م",
+    },
   },
 };
 
