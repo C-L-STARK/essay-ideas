@@ -5,7 +5,8 @@
   "scripts": {
     "dev": "next dev",
     "build": "next build",
-    "start": "next start"
+    "start": "next start",
+    "postbuild": "next-sitemap"
   },
   "repository": {
     "type": "https",
@@ -27,6 +28,7 @@
     "@theguild/remark-mermaid": "^0.1.2",
     "ai": "^3.3.41",
     "next": "^14.2.12",
+    "next-sitemap": "^4.2.3",
     "nextra": "2.13.4",
     "nextra-theme-docs": "2.13.4",
     "react": "^18.2.0",

@@ -13,10 +13,10 @@ module.exports = defineConfig({
   modelName: "gpt-4",
   markdown: {
     reference:
-      "Translate the following content into the target language while preserving the original formatting and specific elements. For MDX files, ensure that markdown syntax, URLs, code blocks, and other formatting elements such as links remain unchanged. Do not alter the structure or content within these elements. keeping all other parts, including URLs and code structure, exactly as they are. For JSON files, only translate the value associated with the key 'title', keeping all other parts, including URLs and code structure, exactly as they are.",
-    entry: ["./pages/team.zh-CN.mdx"],
-    entryLocale: "zh-CN",
-    outputLocales: outputLocals,
+      "Translate the following content into the target language while preserving the original formatting and specific elements. For MDX files, ensure that markdown syntax, URLs, code blocks, and other formatting elements such as links remain unchanged. Do not alter the structure or content within these elements. keeping all other parts, including URLs and code structure, exactly as they are. translate systemPrompt's value in the mdx component. .",
+    entry: ["./pages/category/cause_and_effect/templates.en-US.mdx"],
+    entryLocale: "en-US",
+    outputLocales: ["zh-CN"],
     // exclude: ["./contributing/_Sidebar.mdx"],
     outputExtensions: (locale, { filePath }) => {
       if (filePath.includes(".mdx")) {
