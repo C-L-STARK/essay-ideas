@@ -1,0 +1,27 @@
+{
+  "cSpell.words": [
+    "aimations",
+    "animejs",
+    "clsx",
+    "cmdk",
+    "consola",
+    "Deutsch",
+    "embla",
+    "hookform",
+    "languagedetector",
+    "lucide",
+    "next-template",
+    "nextra",
+    "Nextra",
+    "openai",
+    "sonner",
+    "tailwindcss",
+    "vaul",
+    "العربية"
+  ],
+  "deepscan.enable": true,
+  "editor.formatOnSave": true,
+  "i18n-ally.localesPaths": ["locales"],
+  "i18n-ally.sourceLanguage": "zh",
+  "i18n-ally.keystyle": "nested"
+}

@@ -1,0 +1,31 @@
+{
+  "index": "介绍",
+  "category": "论文分类指导",
+  "design-template": "论文设计模板",
+  "skills": "论文写作技巧",
+  "separatorA": {
+    "title": "separator",
+    "type": "separator"
+  },
+  "major": "专业论文",
+  "university": "大学申请书",
+  "tool": "工具箱",
+  "team": {
+    "title": "团队",
+    "display": "hidden"
+  },
+  "company": {
+    "title": "我们",
+    "type": "menu",
+    "items": {
+      "about": {
+        "title": "团队 ↗",
+        "href": "/about"
+      },
+      "contact": {
+        "title": "联系我们 ↗",
+        "href": "mailto:x.stark.dylan@gmail.com"
+      }
+    }
+  }
+}

@@ -1,26 +1,28 @@
 {
-  "name": "nextra-docs-template",
-  "version": "0.0.1",
-  "description": "Nextra docs template",
+  "name": "essay-ideas",
+  "version": "1.0.0",
+  "description": "help find essay ideas",
   "scripts": {
     "dev": "next dev",
     "build": "next build",
     "start": "next start"
   },
   "repository": {
-    "type": "git",
-    "url": "git+https://github.com/shuding/nextra-docs-template.git"
+    "type": "https",
+    "url": "https://fastx-ai.com"
   },
-  "author": "Shu Ding <g@shud.in>",
+  "author": "fastx-ai",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/shuding/nextra-docs-template/issues"
+    "url": "https://fastx-ai.com"
   },
-  "homepage": "https://github.com/shuding/nextra-docs-template#readme",
+  "homepage": "https://fastx-ai.com",
   "dependencies": {
-    "next": "^13.0.6",
-    "nextra": "latest",
-    "nextra-theme-docs": "latest",
+    "@lobehub/i18n-cli": "^1.20.0",
+    "@theguild/remark-mermaid": "^0.1.2",
+    "next": "^14.2.12",
+    "nextra": "2.13.4",
+    "nextra-theme-docs": "2.13.4",
     "react": "^18.2.0",
     "react-dom": "^18.2.0"
   },

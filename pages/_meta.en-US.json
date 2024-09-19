@@ -1,0 +1,31 @@
+{
+  "index": "Introduction",
+  "category": "Essay Classification",
+  "design-template": "Essay Design template",
+  "skills": "Essay Skills",
+  "separatorA": {
+    "title": "separator",
+    "type": "separator"
+  },
+  "major": "Major Essay",
+  "university": "University Supplemental",
+  "tool": "Tool Box",
+  "team": {
+    "title": "Team",
+    "display": "hidden"
+  },
+  "company": {
+    "title": "About Us",
+    "type": "menu",
+    "items": {
+      "about": {
+        "title": "Team ↗",
+        "href": "/about"
+      },
+      "contact": {
+        "title": "Contact Us ↗",
+        "href": "mailto:x.stark.dylan@gmail.com"
+      }
+    }
+  }
+}
