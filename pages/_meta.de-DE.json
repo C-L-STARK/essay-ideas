@@ -8,6 +8,7 @@
     "type": "separator"
   },
   "university": "Universitätsanträge",
+  "class": "Class 1-12",
   "team": {
     "title": "Team",
     "display": "hidden"
