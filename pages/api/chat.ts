@@ -6,7 +6,8 @@ const openai = createOpenAI({
   // custom settings, e.g.
   compatibility: "strict", // strict mode, enable when using the OpenAI API
   // https://wx.fastx-ai.com/v1
-  baseURL: "https://aigc.x-see.cn/v1",
+  // https://open.xiaojingai.com/v1
+  baseURL: "https://open.xiaojingai.com/v1",
 });
 
 // Allow streaming responses up to 30 seconds
