@@ -9,6 +9,11 @@
   },
   "university": "大学申请书",
   "class": "1-12 年级论文",
+  "examples": "论文样例",
+  "ai": {
+    "title": "免费论文写作AI！",
+    "type": "page"
+  },
   "team": {
     "title": "团队",
     "display": "hidden"

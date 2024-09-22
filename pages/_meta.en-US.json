@@ -9,6 +9,11 @@
   },
   "university": "University Supplemental",
   "class": "Class 1-12",
+  "examples": "More Examples",
+  "ai": {
+    "title": "Free Essay Write AI!",
+    "type": "page"
+  },
   "team": {
     "title": "Team",
     "display": "hidden"

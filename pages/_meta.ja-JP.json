@@ -9,6 +9,11 @@
   },
   "university": "大学申請書",
   "class": "論文 1-12",
+  "examples": "さらに多くの例",
+  "ai": {
+    "title": "無料のエッセイ作成AI！",
+    "type": "page"
+  },
   "team": {
     "title": "チーム",
     "display": "hidden"

@@ -9,6 +9,11 @@
   },
   "university": "Universitätsanträge",
   "class": "Class 1-12",
+  "examples": "Weitere Beispiele",
+  "ai": {
+    "title": "Kostenlose Aufsatz-Schreib-KI!",
+    "type": "page"
+  },
   "team": {
     "title": "Team",
     "display": "hidden"
