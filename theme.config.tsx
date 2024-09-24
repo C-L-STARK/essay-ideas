@@ -62,6 +62,10 @@ const config: DocsThemeConfig = {
         <link rel='alternate' hrefLang='zh' href='https://essay-ideas.com/zh-CN'></link>
         <link rel='alternate' hrefLang='ar' href='https://essay-ideas.com/ar-SA'></link>
         <link rel='alternate' hrefLang='en' href='https://essay-ideas.com'></link>
+        <script
+          async
+          src='https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4716648346526807'
+          crossOrigin='anonymous'></script>
       </>
     );
   },
